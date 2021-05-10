@@ -20,7 +20,7 @@ module.exports = function (api) {
       ]
     ],
     targets: {
-      browsers: 'Chrome 44'
+      browsers: 'Chrome 45'
     },
     ignore: [
       "./node_modules",
